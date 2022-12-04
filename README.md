@@ -8,7 +8,11 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
+First you need to run
+
+### `npm install`
+
+Then in the project directory, you can run:
 
 ### `npm start`
 
