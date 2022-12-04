@@ -41,7 +41,7 @@ const SimpleForm = () => {
     }
 
     const birthdayInputChangedHandler = event => {
-        setEnteredAge(event.target.value);
+        setEnteredBirthday(event.target.value);
     }
 
     function dummyDataHandler() {
